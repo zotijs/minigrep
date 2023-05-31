@@ -1,6 +1,6 @@
 # Minigrep by the Book of Rust
 
-First Rust project
+First Rust project, following: https://doc.rust-lang.org/book/ch12-00-an-io-project.html
 
 ## VSCode setup
 
