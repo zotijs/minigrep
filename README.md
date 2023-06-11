@@ -14,3 +14,7 @@ First Rust project, following: https://doc.rust-lang.org/book/ch12-00-an-io-proj
     "editor.formatOnPaste": true
   }
 ```
+
+## Refactors
+
+- Functional: https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html
